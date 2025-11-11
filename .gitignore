@@ -1,0 +1,28 @@
+# Roblox Studio Files
+*.rbxlx
+*.rbxl
+*.rbxm.bak
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+
+# Build Artifacts
+build/
+dist/
