@@ -27,7 +27,7 @@ Bloom is a **production-ready**, **performance-optimized** Roblox framework desi
 
 ### Method 1: Download & Drag (Recommended)
 
-1. **Download** [`BloomFramework.rbxm`](https://github.com/HappyScripterDev/Bloom-Framework/releases/latest/download/BloomFramework.rbxm)
+1. **Download** [`BloomFramework.rbxm`](https://github.com/HappyScripterDev/Bloom-Framework/raw/main/releases/BloomFramework.rbxm)
 2. **Import** into Roblox Studio
 3. **Follow** the installation tutorial script included
 4. **Start coding** immediately!
